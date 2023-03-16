@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @josephharburg
 - 👀 I’m interested in nerdy stuff
-- 🌱 I’m currently learning react and react for wordpress so I can build gutenberg blocks
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me: Email me at josephharburg@gmail.com
 
