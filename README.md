@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josephharburg
 - 👀 I’m interested in nerdy stuff
-- 💞️ I’m looking to collaborate on nothing right now
+- 💞️ I’m looking to collaborate on anything WordPress Related! 
 - 📫 How to reach me: Email me at josephharburg@gmail.com
 
 <!---
